@@ -1116,10 +1116,10 @@
                                     </div>
 
                                     <div class="content">
-                                        <h3>MNC Group</h3>
+                                        <h3>International Student Exchange</h3>
 
                                         <p>
-                                            "As always, great creative thinking for the best solution. Berg is by far the most professional and knowledgeable provider I worked with. I will hire him again :)"
+                                            Your menuing idea solved about 20 different issues.  It was the last real missing piece and the solution you came up with is exceptional.  I showed it to my wife who works for Oracle and has a team of 30 developers and 15 UI designers under her.  She was really impressed (and that is not an easy thing to do).  Great work!!
                                         </p>
 
                                         <p class="source">
