@@ -206,7 +206,7 @@
                 <!-- PROFILE PICTURE START -->
                 <div class="col-md-5 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-one">
-                        <img src="assets/images/Portfolio-shot.jpg" alt="profile picture" class="img-responsive"/>
+                        <img src="assets/images/profile-pic.jpg" alt="profile picture" class="img-responsive"/>
                     </div>
                 </div>
                 <!-- //PROFILE PICTURE END -->
@@ -1144,7 +1144,7 @@
                                         <h3>Baranof Fishing</h3>
 
                                         <p>
-                                            "We called on Berg to help us deliver on few projects with tight deadlines. He seamlessly integrated into our workflow and quickly became a key part of our team. Great job!"
+                                            "We called on Jeimi to help us deliver on few projects with tight deadlines. He seamlessly integrated into our workflow and quickly became a key part of our team. Great job!"
                                         </p>
 
                                         <p class="source">
@@ -1169,7 +1169,7 @@
                                         <h3>Mustika Ratu</h3>
 
                                         <p>
-                                            "Berg technical knowledge and branding experience came together and resulted in a site that is not only catching and interesting, but also one that is user-friendly. Thanks again."
+                                            "Jeimi's technical knowledge and branding experience came together and resulted in a site that is not only catching and interesting, but also one that is user-friendly. Thanks again."
                                         </p>
 
                                         <p class="source">
