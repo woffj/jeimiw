@@ -1123,9 +1123,9 @@
                                         </p>
 
                                         <p class="source">
-                                            Hary Tanoesoedibjo
+                                            Paul S. McLaughlin
                                             <br>
-                                            <span>President Director</span>
+                                            <span>Chief Operating Office</span>
                                         </p>
                                     </div>
                                     <!-- //.content -->
@@ -1141,16 +1141,16 @@
                                     </div>
 
                                     <div class="content">
-                                        <h3>CT Corp</h3>
+                                        <h3>Baranof Fishing</h3>
 
                                         <p>
                                             "We called on Berg to help us deliver on few projects with tight deadlines. He seamlessly integrated into our workflow and quickly became a key part of our team. Great job!"
                                         </p>
 
                                         <p class="source">
-                                            Chairul Tanjung
+                                            Chuck Slagle
                                             <br>
-                                            <span>Founder and Chairman</span>
+                                            <span>Proprietor</span>
                                         </p>
                                     </div>
                                     <!-- //.content -->
@@ -1774,7 +1774,7 @@
                     <h2 class="section-title">Contact Me</h2>
 
                     <p class="section-subtitle">
-                        Have a project you'd like to discuss?
+                        Have a project or job you'd like to discuss?
                     </p>
 
                     <span class="divider center"></span>
@@ -1850,7 +1850,7 @@
 
                     <li>
                         <div class="item">
-                            <a href="jeimi.woffinden" target="_blank"><i class="fa fa-skype"></i></a>
+                            <a href="https://www.skype.com/jeimi.woffinden" target="_blank"><i class="fa fa-skype"></i></a>
                         </div>
                         <!-- //.item -->
                     </li>
