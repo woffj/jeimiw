@@ -1751,7 +1751,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <p class="text-grey text-justify">
-                        The six steps from a great idea to a successful launch. Each step is important. TESTING
+                        The six steps from a great idea to a successful launch. Each step is important.
                     </p>
                 </div>
                 <!-- //.col-md-12 -->
