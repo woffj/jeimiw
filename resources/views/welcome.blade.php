@@ -1470,7 +1470,7 @@
         <div class="section-content">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <h2 class="section-title">Accolades</h2>
+                    <h2 class="section-title">Accomplishments</h2>
 
                     <p class="section-subtitle">The accolades, just like the scrapes and bruises, fade in the end, and all you're left with is your ambition.</p>
 
@@ -1489,7 +1489,7 @@
                             <i class="icon-Twitter"></i>
 
                             <div class="content">
-                                <h3>Board Member - Non-profit</h3>
+                                <h3>Board Member - Non-profit 2015-16</h3>
 
                                 <p class="text-grey">Board member / secretary</p>
                             </div>
@@ -1501,9 +1501,9 @@
                             <i class="icon-Idea-2"></i>
 
                             <div class="content">
-                                <h3>Certification of Completion - Coding Bootcamp</h3>
+                                <h3>Certification of Completion 2014</h3>
 
-                                <p class="text-grey">Top 3 Team</p>
+                                <p class="text-grey">DevMountain Coding Bootcamp</p>
                             </div>
                             <!-- //.content -->
                         </div>
@@ -1513,11 +1513,11 @@
                             <i class="icon-Brush"></i>
 
                             <div class="content">
-                                <h3>Illustrations - Maps Created</h3>
+                                <h3>Illustrations - Published 2003</h3>
 
-                                <p class="text-grey">Finalist - Design</p>
+                                <p class="text-grey">The History of Emigration Canyon: Gateway to Salt Lake Valley</p>
 
-                                <p class="text-grey">Finalist - Print Ad</p>
+                                <p class="text-grey">by Jeffrey Carlstrom (Author), Cynthia Furse (Author)</p>
                             </div>
                             <!-- //.content -->
                         </div>
@@ -1527,9 +1527,9 @@
                             <i class="icon-Funky"></i>
 
                             <div class="content">
-                                <h3>Photo Restorations - Published</h3>
+                                <h3>Photo Restorations - Published 1997</h3>
 
-                                <p class="text-grey">Helped a local writer with photo restoration for her book</p>
+                                <p class="text-grey">Family Focused - by Janice T. Dixon</p>
                             </div>
                             <!-- //.content -->
                         </div>
