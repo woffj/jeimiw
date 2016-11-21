@@ -180,7 +180,7 @@
                     <div class="panel-group resume" id="work">
                         <div class="resume-item">
                             <div class="resume-year">
-                                <span class="resume-year">2010 - Present</span>
+                                <span class="resume-year">2010 - Now</span>
                             </div>
                             <!-- //.resume-year -->
 
