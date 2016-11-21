@@ -174,7 +174,7 @@
                     <h3>
                         Work Experience
                         <br>
-                        2010 - Now
+                        2010 - Present
                     </h3>
 
                     <div class="panel-group resume" id="work">
