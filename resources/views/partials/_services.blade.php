@@ -25,7 +25,7 @@
                             <h4>1. Strategy</h4>
 
                             <p class="text-grey">
-                                When good design principles are applied to strategy and innovation the success rate for the product or branding are greatly increased.
+                                Good design principles applied to strategy and innovation greatly increase the success rate for the product or branding are greatly increased.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -39,7 +39,7 @@
                             <h4>2. Branding</h4>
 
                             <p class="text-grey">
-                                Branding is one of the most important aspects of any business, large or small. Good graphic design in branding, marketing or advertising is the key to giving your business, organization or event the attention it deserves.
+                                Branding is one of the most important aspects of any business, large or small. In branding, marketing, and advertising, good graphic design is the key to giving your business, organization or event the attention it deserves.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -53,7 +53,7 @@
                             <h4>3. Web Design</h4>
 
                             <p class="text-grey">
-                                Web design and web development are often thought of being the same thing, however, they both have their own unique skill set. I have the experience with building websites from the ground up. I also have the ability to create and customize WordPress templates.</p>
+                                Web design and web development are often thought of as the same thing, but, they they each require their own unique skill set. I have the skills and experience to build websites from the ground up and to create and customize WordPress templates.</p>
                             {{--<p>I have years of experience using html, css3, SASS, javascript, php and cold fusion. I can create full functioning "responsive" websites. Your website not only has to look good on a desktop computer, but it also needs to work on all smart devices.--}}
                             {{--</p>--}}
                         </div>
@@ -82,7 +82,7 @@
                             <h4>5. Development</h4>
 
                             <p class="text-grey">
-                                Is a six step process. First you need an idea
+                                Development is a six-step process that begins with an idea.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +96,7 @@
                             <h4>6. Consulting</h4>
 
                             <p class="text-grey">
-                                Your ideas and your imagination are important
+                                Your ideas and your imagination are important. I can help make them a reality.
                             </p>
                         </div>
                         <!-- //.inner-content -->

@@ -6,7 +6,7 @@
                     <h2 class="section-title">My Resume</h2>
 
                     <p class="section-subtitle">
-                        I consider myself a quick learner and continual student, striving to remain on the cutting edge of technology.
+                        I am a quick learner and continual student, striving to remain on the cutting edge of technology.
                     </p>
 
                     <span class="divider center"></span>
@@ -47,12 +47,8 @@
 
                                 <div id="education1" class="panel-collapse collapse in">
                                     <div class="panel-body text-grey">
-                                        <h4>
-                                            It's Kinda Like Netflix for Your Career!
-                                        </h4>
                                         <p>
-                                            The most concise screencasts for the working developer, updated daily.
-                                            Things learned: Laravel, Vue.js, SASS, and Javascript.
+                                            Skills learned: Laravel, Vue.js, SASS, and Javascript.
                                         </p>
                                     </div>
                                     <!-- //.panel-body -->
@@ -86,10 +82,7 @@
                                 <div id="education2" class="panel-collapse collapse">
                                     <div class="panel-body text-grey">
                                         <p>
-                                            A 12-week immersive web development coding bootcamp empowering
-                                            the modern Web Developer. Things learned: HTML 5 & CSS 3, SASS, Javascript,
-                                            Git, Github, jQuery, AngularJS, Node.JS, React and Databases (MongoDB,
-                                            Firebase).
+                                           12-week immersive web development coding bootcamp. Skills learned: HTML 5 & CSS 3, SASS, Javascript, Git, Github, jQuery, AngularJS, Node.JS, React and Databases (MongoDB, Firebase).
                                         </p>
                                     </div>
                                     <!-- //.panel-body -->
@@ -123,7 +116,7 @@
                                 <div id="education3" class="panel-collapse collapse">
                                     <div class="panel-body text-grey">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                                            Skills learned: Keeping up-to-date with industry standards in web design and development.
                                         </p>
                                     </div>
                                     <!-- //.panel-body -->
@@ -187,7 +180,7 @@
                     <div class="panel-group resume" id="work">
                         <div class="resume-item">
                             <div class="resume-year">
-                                <span class="resume-year">2010 - Now</span>
+                                <span class="resume-year">2010 - Present</span>
                             </div>
                             <!-- //.resume-year -->
 
@@ -210,7 +203,7 @@
                                         <p>
                                             Responsibilities:
                                             <br>
-                                            Design of print collateral and websites for various clients and markets, development of new and existing brands.
+                                            Design print collateral and websites for various clients and markets, develop new and existing brands.
                                         </p>
                                     </div>
                                     <!-- //.panel-body -->
@@ -221,41 +214,6 @@
                         </div>
                         <!-- //.resume-item -->
 
-                        <div class="resume-item">
-                            <div class="resume-year">
-                                <span class="resume-year">2010 -2016</span>
-                            </div>
-                            <!-- //.resume-year -->
-
-                            <div class="resume-btn">
-                                <a href="#work2" class="collapsed" data-toggle="collapse" data-parent="#work"></a>
-                            </div>
-                            <!-- //.resume-btn -->
-
-                            <div class="panel">
-                                <div class="panel-heading">
-                                    <div class="panel-title">
-                                        <h4 class="resume-title">Graphic and Web Designer - Freelance</h4>
-                                    </div>
-                                    <!-- //.panel-title -->
-                                </div>
-                                <!-- //.panel-heading -->
-
-                                <div id="work2" class="panel-collapse collapse">
-                                    <div class="panel-body text-grey">
-                                        <p>
-                                            Responsibilities:
-                                            <br>
-                                            Design of print collateral and websites for multiple internal companies , development of new and existing brands.
-                                        </p>
-                                    </div>
-                                    <!-- //.panel-body -->
-                                </div>
-                                <!-- //.panel-collapse -->
-                            </div>
-                            <!-- //.panel -->
-                        </div>
-                        <!-- //.resume-item -->
 
                         <div class="resume-item">
                             <div class="resume-year">
@@ -282,9 +240,7 @@
                                         <p>
                                             Responsibilities:
                                             <br>
-                                            Senior Designer - I provided design leadership and marketing support for
-                                            Dynatronics' digital properities by using design best practices.
-                                            Lead Designer- responsibilities were to focus on company branding and collateral material, product catalogs, websites and product photography.
+                                            As Senior Designer, provided design leadership and marketing support for Dynatronics’ digital properties by using design best practices. As Lead Designer, focused on company branding and collateral materials, product catalogs, websites and product photography.
                                         </p>
                                     </div>
                                     <!-- //.panel-body -->

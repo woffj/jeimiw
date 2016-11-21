@@ -30,7 +30,7 @@
                             <!-- //.item -->
 
                             <div class="item">
-                                <h4>Preety Good</h4>
+                                <h4>Pretty Good</h4>
                             </div>
                             <!-- //.item -->
 

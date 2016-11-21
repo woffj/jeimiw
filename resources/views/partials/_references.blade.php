@@ -3,7 +3,7 @@
         <div class="section-content">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="section-title">References</h2>
+                    <h2 class="section-title">Testimonials</h2>
 
                     <p class="section-subtitle">Testimonials are enough to convince people for now.</p>
 
@@ -27,11 +27,11 @@
                                         <h3>DevMountain</h3>
 
                                         <p>
-                                            "Jeimi is one of the most intelligent, creative, sincere, and all around awesome individuals I have ever met. She is highly talented and committed to staying on top of the latest in new languages and web dev techniques. There is very little she can't do, but if she can't do it she will find out how to do it fast. Jeimi is great to work with and its hard for people not to like her immediately. I fully recommend her, and she totally earns it."
+                                            "Jeimi is one of the most intelligent, creative, sincere, and all around awesome individuals I have ever met. She is highly talented and committed to staying on top of the latest in new languages and web dev techniques. There is very little she can't do, but if she can't do it she will find out how to do it fast. Jeimi is great to work with and it's hard for people not to like her immediately. I fully recommend her, and she totally earns it."
                                         </p>
 
                                         <p class="source">
-                                            Aaron B Stitt
+                                            Aaron B. Stitt
                                             <br>
                                             <span>Digital Marketing & Web Development Professional</span>
                                         </p>

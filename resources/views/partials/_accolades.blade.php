@@ -24,7 +24,7 @@
                             <div class="content">
                                 <h3>Board Member - Non-profit 2015-16</h3>
 
-                                <p class="text-grey">Board member / secretary</p>
+                                <p class="text-grey">Board Member/Secretary</p>
                             </div>
                             <!-- //.content -->
                         </div>
@@ -50,7 +50,7 @@
 
                                 <p class="text-grey">The History of Emigration Canyon: Gateway to Salt Lake Valley</p>
 
-                                <p class="text-grey">by Jeffrey Carlstrom (Author), Cynthia Furse (Author)</p>
+                                <p class="text-grey">by Jeffrey Carlstrom and, Cynthia Furse</p>
                             </div>
                             <!-- //.content -->
                         </div>
@@ -62,7 +62,7 @@
                             <div class="content">
                                 <h3>Photo Restorations - Published 1997</h3>
 
-                                <p class="text-grey">Family Focused - by Janice T. Dixon</p>
+                                <p class="text-grey">Family Focused by Janice T. Dixon</p>
                             </div>
                             <!-- //.content -->
                         </div>
