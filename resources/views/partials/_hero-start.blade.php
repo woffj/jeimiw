@@ -7,7 +7,7 @@
                         Jeimi Woffinden <span class="blinker"></span>
                     </h1>
 
-                    <h1 class="small">Front-end Web / Graphic Designer</h1>
+                    <h1 class="small">Graphic Designer / Full Stack Developer</h1>
 
                     <h3>Passionate – Hardworking - Dedicated</h3>
 
