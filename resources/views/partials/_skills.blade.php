@@ -5,7 +5,7 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h2 class="section-title">Skills & Expertise</h2>
 
-                    <p class="section-subtitle">A winner is someone who recognizes his God-given talents, works his tail off to develop them into skills, and uses these skills to accomplish his goals.</p>
+                    <p class="section-subtitle">If I don’t know how to do it yet, I’ll quickly learn how.</p>
 
                     <span class="divider center"></span>
                 </div>

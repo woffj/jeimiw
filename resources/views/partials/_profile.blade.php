@@ -17,12 +17,13 @@
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    I currently work as a freelance / contract designer for multiple clients in a
-                                    wide variety of industries.
+                                    I’m passionate about developing websites that work seamlessly and look beautiful.
                                 </p>
-
                                 <p class="text-grey">
-                                    Throughout my career, I have been exposed to a variety of cultures, challenges, and opportunities I have acquired professional proficiency, time-management skills, and a commitment to excellence. I am looking for a dedicated team who can push me to my full potential by allowing me to explore creative and innovative designs and ideas.
+                                    Based in Juneau, Alaska, I help clients in a wide variety of industries turn their ideas into websites that represent them. My graphic design background means your web presence won’t just function beautifully – it will look good, too.
+                                </p>
+                                <p class="text-grey">
+                                    I’m currently available for short- and long-term web development projects, either working alone or as part of your team. I look forward to new challenges that push me to explore creative and innovative designs and solutions.
                                 </p>
                             </div>
                             <!-- //.col-md-12 -->

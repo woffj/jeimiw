@@ -5,7 +5,7 @@
                 <div class="col-md-12 text-center">
                     <h2 class="section-title">My Latest Work</h2>
 
-                    <p class="section-subtitle">What I want:  To be challenged. To work for an organization that promotes development to keep up with a constantly changing industry.</p>
+                    <p class="section-subtitle">I have worked for various clients in industries ranging from tourism to education. Here are a few examples</p>
 
                     <span class="divider center"></span>
                 </div>

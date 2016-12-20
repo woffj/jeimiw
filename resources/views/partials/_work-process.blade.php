@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <p class="text-grey text-justify">
-                        Throughout my career, I have been exposed to a variety of cultures, challenges, and opportunities. As a result, I have acquired maturity, professional proficiency, time-management, and maintain a desire for commitment to excellence. I am looking for a dedicated team who has the ability to push me to my full potential by allowing me to explore creative and innovative designs and ideas. test
+                        There are six steps from a great idea to a successful launch. Each step is important. I meet clients wherever they are in the process, providing support where it is needed most.
                     </p>
                 </div>
                 <!-- //.col-md-12 -->

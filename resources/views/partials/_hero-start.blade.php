@@ -7,9 +7,9 @@
                         Jeimi Woffinden <span class="blinker"></span>
                     </h1>
 
-                    <h1 class="small">Graphic Designer / Full Stack Developer</h1>
+                    <h1 class="small">Full-Stack Developer & Graphic Designer</h1>
 
-                    <h3>Passionate – Hardworking - Dedicated</h3>
+                    <h3>My passion. Your results.</h3>
 
                     <div class="page-scroll">
                         <a href="#profile" class="btn btn-lg btn-custom">

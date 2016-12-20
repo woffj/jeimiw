@@ -6,7 +6,7 @@
                     <h2 class="section-title">What I'm Doing</h2>
 
                     <p class="section-subtitle">
-                        I love what I do. I take great pride in what I do. And I can't do something halfway, three-quarters, nine-tenths. If I'm going to do something, I go all the way.
+                        Whether building a website from scratch or tweaking an old one, I look for innovative solutions to your problems. From back-end code to final design, I sweat the small stuff, making sure the final product works for you and the people you serve.
                     </p>
 
                     <span class="divider center"></span>
@@ -25,7 +25,7 @@
                             <h4>1. Strategy</h4>
 
                             <p class="text-grey">
-                                Good design principles applied to strategy and innovation greatly increase the success rate for the product or branding are greatly increased.
+                                I can help you incorporate good design principles throughout your marketing strategy to position your brand for success.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -39,7 +39,7 @@
                             <h4>2. Branding</h4>
 
                             <p class="text-grey">
-                                Branding is one of the most important aspects of any business, large or small. In branding, marketing, and advertising, good graphic design is the key to giving your business, organization or event the attention it deserves.
+                                In branding, good graphic design ensures your business, organization or event gets the attention it deserves.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -53,9 +53,7 @@
                             <h4>3. Web Design</h4>
 
                             <p class="text-grey">
-                                Web design and web development are often thought of as the same thing, but, they they each require their own unique skill set. I have the skills and experience to build websites from the ground up and to create and customize WordPress templates.</p>
-                            {{--<p>I have years of experience using html, css3, SASS, javascript, php and cold fusion. I can create full functioning "responsive" websites. Your website not only has to look good on a desktop computer, but it also needs to work on all smart devices.--}}
-                            {{--</p>--}}
+                                I can build websites from the ground up, create and customize WordPress templates, or update old design.</p>
                         </div>
                         <!-- //.inner-content -->
                     </div>
@@ -82,7 +80,7 @@
                             <h4>5. Development</h4>
 
                             <p class="text-grey">
-                                Development is a six-step process that begins with an idea.
+                                The development process begins with an idea and ends with a beautiful, functional website.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -96,7 +94,7 @@
                             <h4>6. Consulting</h4>
 
                             <p class="text-grey">
-                                Your ideas and your imagination are important. I can help make them a reality.
+                                Your ideas and imagination are important. I can help make them come to life.
                             </p>
                         </div>
                         <!-- //.inner-content -->

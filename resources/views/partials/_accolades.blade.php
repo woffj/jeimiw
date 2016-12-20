@@ -22,7 +22,7 @@
                             <i class="icon-Twitter"></i>
 
                             <div class="content">
-                                <h3>Board Member - Non-profit 2015-16</h3>
+                                <h3>Community non-profit board member and secretary 2015-16</h3>
 
                                 <p class="text-grey">Board Member/Secretary</p>
                             </div>

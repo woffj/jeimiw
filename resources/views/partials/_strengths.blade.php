@@ -5,7 +5,7 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h2 class="section-title">My Strengths</h2>
 
-                    <p class="section-subtitle">Failure will never overtake me if my determination to succeed is strong enough.</p>
+                    <p class="section-subtitle">My greatest asset is my determination. I love to push the boundaries of what I can do.</p>
 
                     <span class="divider center"></span>
                 </div>

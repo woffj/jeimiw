@@ -5,7 +5,7 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <h2 class="section-title">Knowledge</h2>
 
-                    <p class="section-subtitle">Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+                    <p class="section-subtitle">My industry knowledge runs deep. </p>
 
                     <span class="divider center"></span>
                 </div>

@@ -6,7 +6,7 @@
                     <h2 class="section-title">My Resume</h2>
 
                     <p class="section-subtitle">
-                        I am a quick learner and continual student, striving to remain on the cutting edge of technology.
+                        A quick learner and lifelong student, I keep my skills on the cutting edge of technology.
                     </p>
 
                     <span class="divider center"></span>
