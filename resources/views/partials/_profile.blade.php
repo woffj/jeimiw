@@ -11,7 +11,7 @@
                                 <h2 class="section-title">Hello, My Name is Jeimi.</h2>
 
                                 <p>
-                                    I pride myself in being a passionate, experienced and dedicated front-end web developer and graphic designer.
+                                    I pride myself in being a passionate, experienced and dedicated Full-Stack Developer & Graphic Designer.
                                 </p>
 
                                 <span class="divider"></span>
@@ -49,7 +49,7 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <a href="#" class="btn btn-lg btn-custom">
+                                <a href="assets/pdf/Jeimi-woffinden-2017-resume-final.pdf" class="btn btn-lg btn-custom">
                                     <i class="icon-File-Download"></i> Download Resume
                                 </a>
                             </div>

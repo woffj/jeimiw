@@ -79,13 +79,13 @@
                                         <h3>International Student Exchange</h3>
 
                                         <p>
-                                            Your menuing idea solved about 20 different issues.  It was the last real missing piece and the solution you came up with is exceptional.  I showed it to my wife who works for Oracle and has a team of 30 developers and 15 UI designers under her.  She was really impressed (and that is not an easy thing to do).  Great work!!
+                                            I have been extremely pleased with the quality and quantity of work Jeimi has produced.  She has a great attention to detail, works in a collaborative fashion and she interacts well with a broad range of staff in our organization.  She is innovative, offers well thought out ideas and will quickly adjust a design to meet ever-changing needs.
                                         </p>
 
                                         <p class="source">
                                             Paul S. McLaughlin
                                             <br>
-                                            <span>Chief Operating Office</span>
+                                            <span>Chief Operating Officer</span>
                                         </p>
                                     </div>
                                     <!-- //.content -->
