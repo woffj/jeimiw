@@ -101,7 +101,7 @@
                                     </div>
 
                                     <div class="content">
-                                        <h3>Baranof Fishing</h3>
+                                        <h3>Baranof Fishing Excursions</h3>
 
                                         <p>
                                             "We called on Jeimi to help us deliver on few projects with tight deadlines. She seamlessly integrated into our workflow and quickly became a key part of our team. Great job!"
