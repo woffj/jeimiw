@@ -119,29 +119,29 @@
                             </div>
                             <!-- //.item -->
 
-                            <div class="item">
-                                <div class="animated" data-animation-effect="flipInX">
-                                    <div class="profile hidden-xs">
-                                        <img src="assets/images/references/profile-image-5.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                    </div>
+                            {{--<div class="item">--}}
+                                {{--<div class="animated" data-animation-effect="flipInX">--}}
+                                    {{--<div class="profile hidden-xs">--}}
+                                        {{--<img src="assets/images/references/profile-image-5.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>--}}
+                                    {{--</div>--}}
 
-                                    <div class="content">
-                                        <h3>Mustika Ratu</h3>
+                                    {{--<div class="content">--}}
+                                        {{--<h3>Mustika Ratu</h3>--}}
 
-                                        <p>
-                                            "Jeimi's technical knowledge and branding experience came together and resulted in a site that is not only catching and interesting, but also one that is user-friendly. Thanks again."
-                                        </p>
+                                        {{--<p>--}}
+                                            {{--"Jeimi's technical knowledge and branding experience came together and resulted in a site that is not only catching and interesting, but also one that is user-friendly. Thanks again."--}}
+                                        {{--</p>--}}
 
-                                        <p class="source">
-                                            Mooryati Soedibyo
-                                            <br>
-                                            <span>President Director</span>
-                                        </p>
-                                    </div>
-                                    <!-- //.content -->
-                                </div>
-                                <!-- //.animated -->
-                            </div>
+                                        {{--<p class="source">--}}
+                                            {{--Mooryati Soedibyo--}}
+                                            {{--<br>--}}
+                                            {{--<span>President Director</span>--}}
+                                        {{--</p>--}}
+                                    {{--</div>--}}
+                                    {{--<!-- //.content -->--}}
+                                {{--</div>--}}
+                                {{--<!-- //.animated -->--}}
+                            {{--</div>--}}
                             <!-- //.item -->
                         </div>
                         <!-- //.slides -->
