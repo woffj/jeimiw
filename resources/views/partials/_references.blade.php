@@ -138,10 +138,6 @@
                                 <li>
                                     <img src="assets/images/references/profile-image-4.jpg" alt="" class="img-responsive"/>
                                 </li>
-
-                                <li>
-                                    <img src="assets/images/references/profile-image-5.jpg" alt="" class="img-responsive"/>
-                                </li>
                             </ul>
                         </div>
                         <!-- //.flexslider-controls -->
