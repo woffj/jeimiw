@@ -72,7 +72,7 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="http://159.203.226.64/" target="_blank" class="external-link">
+                                <a href="" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
@@ -191,7 +191,7 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="http://45.55.4.136/" target="_blank" class="external-link">
+                                <a href="" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
