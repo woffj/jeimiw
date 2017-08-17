@@ -6,7 +6,7 @@
                     <h2 class="section-title">Work Process</h2>
 
                     <p class="section-subtitle">
-                        It is not just a job. It is an adventure
+                        It is not just a job. It is an adventure!
                     </p>
 
                     <span class="divider center"></span>

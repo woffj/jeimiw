@@ -5,7 +5,7 @@
                 <div class="col-md-12 text-center">
                     <h2 class="section-title">Testimonials</h2>
 
-                    <p class="section-subtitle">Testimonials are enough to convince people for now.</p>
+                    <p class="section-subtitle">Recommendations from classmates, colleagues and clients</p>
 
                     <span class="divider center"></span>
                 </div>

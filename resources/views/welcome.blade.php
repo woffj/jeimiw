@@ -119,7 +119,7 @@
 
 
 <!-- ACCOLADES SECTION START -->
-@include('partials._accolades')
+{{--@include('partials._accolades')--}}
 <!-- //ACCOLADES SECTION END -->
 
 
