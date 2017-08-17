@@ -72,7 +72,7 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                {{--<a href="" target="_blank" class="external-link">--}}
+                                {{--<a href="" target="_blank" class="external-link disabled">--}}
                                     {{--<i class="icon-Link"></i>--}}
                                 {{--</a>--}}
                             </div>
@@ -187,11 +187,11 @@
                     <div class="item col-sm-6 col-md-3">
                         <div class="project-wrapper">
                             <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-1.jpg" class="zoom" title="Exchange Student Website">
+                                <a href="assets/images/portfolio/project-image-1.jpg" class="zoom" title="International Student Exchange Website">
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                {{--<a href="" target="_blank" class="external-link">--}}
+                                {{--<a href="" target="_blank" class="external-link disabled">--}}
                                     {{--<i class="icon-Link"></i>--}}
                                 {{--</a>--}}
                             </div>
