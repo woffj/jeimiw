@@ -6,7 +6,7 @@
                     <h2 class="section-title">What I'm Doing</h2>
 
                     <p class="section-subtitle">
-                        Whether building a website from scratch or tweaking an old one, I look for innovative solutions to your problems. From back-end code to final design, I sweat the small stuff, making sure the final product works for you and the people you serve.
+                        Whether building a website from scratch or tweaking an old one, I look for innovative solutions to your problems. From back-end code to final design, I take my time with the smallest of details, making sure the final product works for you and the people you serve.
                     </p>
 
                     <span class="divider center"></span>
