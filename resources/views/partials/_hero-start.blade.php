@@ -7,9 +7,10 @@
                         Jeimi Woffinden <span class="blinker"></span>
                     </h1>
 
-                    <h1 class="small">Full-Stack Developer & Graphic Designer</h1>
+                    <h1 class="small">Director of Digital Marketing <h1>
+                 <h2 class="text-grey">Full-Stack Developer & Graphic Designer</h2>
 
-                    <h3>My passion. Your results.</h3>
+                    <h3 style="margin-top: 20px;">My passion. Your results.</h3>
 
                     <div class="page-scroll">
                         <a href="#profile" class="btn btn-lg btn-custom">
