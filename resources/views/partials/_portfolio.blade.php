@@ -40,6 +40,31 @@
                     </div>
                     <!-- //.item -->
 
+                    <!-- //.item -->
+                    <div class="item col-sm-6 col-md-3">
+                        <div class="project-wrapper">
+                            <div class="project-link">
+                                <a href="assets/images/portfolio/project-image-1.jpg" class="zoom" title="CSB - Summer work Travel">
+                                    <i class="icon-Full-Screen"></i>
+                                </a>
+
+                                <a href="http://csb-usa.com/" target="_blank" class="external-link disabled">
+                                <i class="icon-Link"></i>
+                                </a>
+                            </div>
+                            <!-- //.project-link -->
+
+                            <div class="project-title">
+                                <h4>CSB - Summer Work Travel</h4>
+                            </div>
+                            <!-- //.project-title -->
+
+                            <img src="assets/images/portfolio/project-image-1.jpg" alt="" class="img-responsive"/>
+                        </div>
+                        <!-- //.project-wrapper -->
+                    </div>
+                    <!-- //.item -->
+
                     <div class="item col-sm-6 col-md-3">
                         <div class="project-wrapper">
                             <div class="project-link">
@@ -183,30 +208,6 @@
                         </div>
                         <!-- //.project-wrapper -->
                     </div>
-                    <!-- //.item -->
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-1.jpg" class="zoom" title="International Student Exchange Website">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
-
-                                {{--<a href="" target="_blank" class="external-link disabled">--}}
-                                    {{--<i class="icon-Link"></i>--}}
-                                {{--</a>--}}
-                            </div>
-                            <!-- //.project-link -->
-
-                            <div class="project-title">
-                                <h4>International Student Exchange</h4>
-                            </div>
-                            <!-- //.project-title -->
-
-                            <img src="assets/images/portfolio/project-image-1.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
                 </div>
                 <!-- //.row -->
             </div>

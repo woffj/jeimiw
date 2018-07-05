@@ -192,7 +192,7 @@
                             <div class="panel">
                                 <div class="panel-heading">
                                     <div class="panel-title">
-                                        <h4 class="resume-title">Graphic and Web Designer - Contractor</h4>
+                                        <h4 class="resume-title">Graphic, Web Designer and Digital Marketing - Contractor</h4>
                                     </div>
                                     <!-- //.panel-title -->
                                 </div>
@@ -203,7 +203,7 @@
                                         <p>
                                             Responsibilities:
                                             <br>
-                                            Design print collateral and websites for various clients and markets, develop new and existing brands.
+                                            Control and maintain SEO rankings, Digital Media, Email blasts. Find and determine trends and problems with digital media. Design print collateral and websites for various clients and markets, develop new and existing brands.
                                         </p>
                                     </div>
                                     <!-- //.panel-body -->
