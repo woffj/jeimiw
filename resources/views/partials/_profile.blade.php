@@ -20,7 +20,7 @@
                                     I’m passionate about developing websites that work seamlessly and look beautiful.
                                 </p>
                                 <p class="text-grey">
-                                    I have spent my last 8 years in Alaska working as a contractor for multiple clients throughout the US. I have recently returned home to Utah, I help clients in a wide variety of industries turn their ideas into websites that represent them. My graphic design background means your web presence won’t just function beautifully – it will look good, too.
+                                    I have spent my last 8 years in Alaska working as a contractor for multiple clients throughout the US. I have recently returned home to Utah. As a contractor I have helped clients in a wide variety of industries turn their ideas into websites that represent them. My graphic design background means your web presence won’t just function beautifully – it will look good, too.
                                 </p>
                                 <p class="text-grey">
                                     I’m currently available for short- and long-term web development projects, either working alone or as part of your team. I look forward to new challenges that push me to explore creative and innovative designs and solutions.
