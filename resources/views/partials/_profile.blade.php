@@ -20,7 +20,7 @@
                                     I’m passionate about developing websites that work seamlessly and look beautiful.
                                 </p>
                                 <p class="text-grey">
-                                    Based in Juneau, Alaska, I help clients in a wide variety of industries turn their ideas into websites that represent them. My graphic design background means your web presence won’t just function beautifully – it will look good, too.
+                                    I have spent my last 8 years in Alaska working as a contractor for multiple clients throughout the US. I have recently returned home to Utah, I help clients in a wide variety of industries turn their ideas into websites that represent them. My graphic design background means your web presence won’t just function beautifully – it will look good, too.
                                 </p>
                                 <p class="text-grey">
                                     I’m currently available for short- and long-term web development projects, either working alone or as part of your team. I look forward to new challenges that push me to explore creative and innovative designs and solutions.
@@ -40,7 +40,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Jeimi Woffinden</li>
-                                    <li>Juneau, Alaska</li>
+                                    <li>West Jordan, Utah</li>
                                     <li>907.331.0413</li>
                                     <li>jeimi@yahoo.com</li>
                                     <li>www.jeimiw.com</li>
@@ -49,7 +49,7 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <a href="assets/pdf/Jeimi-woffinden-2017-resume-final.pdf" class="btn btn-lg btn-custom">
+                                <a href="assets/pdf/Jeimi-woffinden-2018-resume-final.pdf" class="btn btn-lg btn-custom">
                                     <i class="icon-File-Download"></i> Download Resume
                                 </a>
                             </div>
