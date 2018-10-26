@@ -97,14 +97,14 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                {{--<a href="" target="_blank" class="external-link disabled">--}}
-                                    {{--<i class="icon-Link"></i>--}}
-                                {{--</a>--}}
+                                <a href="https://baranoffishing.com" target="_blank" class="external-link disabled">
+                                    <i class="icon-Link"></i>
+                                </a>
                             </div>
                             <!-- //.project-link -->
 
                             <div class="project-title">
-                                <h4>Exchange Student International</h4>
+                                <h4>Baranof Fishing Landing Page</h4>
                             </div>
                             <!-- //.project-title -->
 
