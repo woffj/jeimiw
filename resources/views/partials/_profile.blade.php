@@ -65,7 +65,7 @@
                 <!-- PROFILE PICTURE START -->
                 <div class="col-md-5 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-one">
-                        <img src="assets/images/profile-picture-me.jpg" alt="profile picture" class="img-responsive"/>
+                        <img src="assets/images/profile-pic.jpg" alt="profile picture" class="img-responsive"/>
                     </div>
                 </div>
                 <!-- //PROFILE PICTURE END -->
