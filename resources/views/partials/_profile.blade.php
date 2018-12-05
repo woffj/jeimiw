@@ -49,7 +49,7 @@
                             <!-- //.col-md-5 -->
 
                             <div class="col-sm-6 col-md-7">
-                                <a href="assets/pdf/Jeimi-woffinden-2018-resume-final.pdf" class="btn btn-lg btn-custom">
+                                <a href="assets/pdf/Jeimi-woffinden-2019-resume-final.pdf" class="btn btn-lg btn-custom">
                                     <i class="icon-File-Download"></i> Download Resume
                                 </a>
                             </div>
