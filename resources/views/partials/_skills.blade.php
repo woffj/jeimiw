@@ -49,11 +49,11 @@
                     <div class="col-sm-4 col-md-2">
                         <div class="item">
                             <div class="circle">
-                                <span class="item-progress" data-percent="75"></span>
+                                <span class="item-progress" data-percent="85"></span>
                             </div>
                             <!-- //.circle -->
 
-                            <span class="percent">75%</span>
+                            <span class="percent">85%</span>
 
                             <h4 class="text-center">Laravel</h4>
                         </div>

@@ -75,9 +75,9 @@
 
                             <div class="item">
                                 <div class="bar">
-                                    <span class="percent">82%</span>
+                                    <span class="percent">92%</span>
 
-                                    <div class="item-progress" data-percent="82">
+                                    <div class="item-progress" data-percent="92">
                                         <span class="title">Communication</span>
                                     </div>
                                     <!-- //.item-progress -->
@@ -88,9 +88,9 @@
 
                             <div class="item">
                                 <div class="bar">
-                                    <span class="percent">78%</span>
+                                    <span class="percent">88%</span>
 
-                                    <div class="item-progress" data-percent="78">
+                                    <div class="item-progress" data-percent="88">
                                         <span class="title">Leadership</span>
                                     </div>
                                     <!-- //.item-progress -->

@@ -189,18 +189,18 @@
                     <div class="item col-sm-6 col-md-3">
                         <div class="project-wrapper">
                             <div class="project-link">
-                                <a href="assets/images/portfolio/project-image-8.jpg" class="zoom" title="DMD J-1 Schools">
+                                <a href="assets/images/portfolio/project-image-8.jpg" class="zoom" title="Structurally Sound Massage">
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="https://www.behance.net/gallery/19401293/Rebus-2" target="_blank" class="external-link">
+                                <a href="https://www.structurallysoundmassage.com" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
                             <!-- //.project-link -->
 
                             <div class="project-title">
-                                <h4>DMD/PHP Public High School Program</h4>
+                                <h4>Structurally Sound Massage</h4>
                             </div>
                             <!-- //.project-title -->
 

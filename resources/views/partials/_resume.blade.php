@@ -27,7 +27,40 @@
                     <div class="panel-group resume" id="education">
                         <div class="resume-item">
                             <div class="resume-year">
-                                <span class="resume-year">2015 - 2016</span>
+                                <span class="resume-year">2018 - Now</span>
+                            </div>
+                            <!-- //.resume-year -->
+
+                            <div class="resume-btn">
+                                <a href="#education1" data-toggle="collapse" data-parent="#education"></a>
+                            </div>
+                            <!-- //.resume-btn -->
+
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    <div class="panel-title">
+                                        <h4 class="resume-title">Stack Skills - Online Courses</h4>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="education1" class="panel-collapse collapse in">
+                                    <div class="panel-body text-grey">
+                                        <p>
+                                            SEO Mastery, Mobile Apps, Analytics, Javascript, SQL Databases.
+                                        </p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+                        </div>
+                        <!-- //.resume-item -->
+                        <div class="resume-item">
+                            <div class="resume-year">
+                                <span class="resume-year">2015 - 2018</span>
                             </div>
                             <!-- //.resume-year -->
 
@@ -180,7 +213,48 @@
                     <div class="panel-group resume" id="work">
                         <div class="resume-item">
                             <div class="resume-year">
-                                <span class="resume-year">2010 - Now</span>
+                                <span class="resume-year">2016 - Now</span>
+                            </div>
+                            <!-- //.resume-year -->
+
+                            <div class="resume-btn">
+                                <a href="#work5" data-toggle="collapse" data-parent="#work"></a>
+                            </div>
+                            <!-- //.resume-btn -->
+
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    <div class="panel-title">
+                                        <h4 class="resume-title">Director of Digital Marketing - Baranof Fishing Excursions</h4>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="work5" class="panel-collapse collapse in">
+                                    <div class="panel-body text-grey">
+                                        <p>Responsibilities:</p>
+
+                                            <p>Creation, maintenance and performance analysis of all websites and print media materials. This includes assessing search engine optimization configuration, monitoring analytics and managing digit budgets to meet vendor goals.</p>
+                                        <ul>
+                                            <li>Maintain social media platforms such as Facebook, Instagram, Twitter, YELP, TripAdvisor and Pinterest.</li>
+                                            <li>Build and manage social media proﬁles and presence; direct paid search and social campaigns and analyzing the performance of those campaigns.</li>
+                                            <li>Responsible to create and curate shareable content.</li>
+                                            <li>Determine the platform best suited for content.</li>
+                                            <li>Maintain brand consistency across platforms.</li>
+                                        </ul>
+
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+                        </div>
+                        <!-- //.resume-item -->
+                        <div class="resume-item">
+                            <div class="resume-year">
+                                <span class="resume-year">2010 - 2017</span>
                             </div>
                             <!-- //.resume-year -->
 
@@ -192,7 +266,7 @@
                             <div class="panel">
                                 <div class="panel-heading">
                                     <div class="panel-title">
-                                        <h4 class="resume-title">Graphic, Web Designer and Digital Marketing - Contractor</h4>
+                                        <h4 class="resume-title">Graphic, Web Developer - EXIT Group</h4>
                                     </div>
                                     <!-- //.panel-title -->
                                 </div>
@@ -200,11 +274,15 @@
 
                                 <div id="work1" class="panel-collapse collapse in">
                                     <div class="panel-body text-grey">
-                                        <p>
-                                            Responsibilities:
-                                            <br>
-                                            Control and maintain SEO rankings, Digital Media, Email blasts. Find and determine trends and problems with digital media. Design print collateral and websites for various clients and markets, develop new and existing brands.
-                                        </p>
+                                        <p>Responsibilities:</p>
+
+                                        <p>Utilized effective website designs, marketing tactics, including logo design and marketing material creation, to grow multiple companies from start-ups to the number one in their field within the region. Created engaging web content to attract new clientele.  </p>
+                                        <ul>
+                                            <li>Leverage expert level marketing knowledge to deliver innovative solutions to clients across multiple industries. </li>
+                                            <li>Utilize various tools, including HTML, CSS, SASS, Laravel Frameworks and JavaScript.</li>
+                                            <li>Demonstrate strong interpersonal communication skills while cultivating positive relationships with clients.</li>
+                                            <li>Facilitate participation within multiple trade shows.</li>
+                                        </ul>
                                     </div>
                                     <!-- //.panel-body -->
                                 </div>

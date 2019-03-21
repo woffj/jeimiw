@@ -21,8 +21,8 @@
                             <h4>Brand Marketing</h4>
 
                             <div class="bar">
-                                <span class="percent">75%</span>
-                                <span class="item-progress" data-percent="75"></span>
+                                <span class="percent">95%</span>
+                                <span class="item-progress" data-percent="95"></span>
                             </div>
                             <!-- //.bar -->
                         </div>
@@ -32,8 +32,8 @@
                             <h4>Web Development</h4>
 
                             <div class="bar">
-                                <span class="percent">90%</span>
-                                <span class="item-progress" data-percent="90"></span>
+                                <span class="percent">95%</span>
+                                <span class="item-progress" data-percent="95"></span>
                             </div>
                             <!-- //.bar -->
                         </div>
@@ -60,8 +60,8 @@
                             <h4>Brand Design</h4>
 
                             <div class="bar">
-                                <span class="percent">85%</span>
-                                <span class="item-progress" data-percent="85"></span>
+                                <span class="percent">95%</span>
+                                <span class="item-progress" data-percent="95"></span>
                             </div>
                             <!-- //.bar -->
                         </div>
@@ -71,8 +71,8 @@
                             <h4>Internet Marketing</h4>
 
                             <div class="bar">
-                                <span class="percent">75%</span>
-                                <span class="item-progress" data-percent="75"></span>
+                                <span class="percent">90%</span>
+                                <span class="item-progress" data-percent="90"></span>
                             </div>
                             <!-- //.bar -->
                         </div>
@@ -82,8 +82,8 @@
                             <h4>Programming</h4>
 
                             <div class="bar">
-                                <span class="percent">55%</span>
-                                <span class="item-progress" data-percent="55"></span>
+                                <span class="percent">85%</span>
+                                <span class="item-progress" data-percent="85"></span>
                             </div>
                             <!-- //.bar -->
                         </div>
