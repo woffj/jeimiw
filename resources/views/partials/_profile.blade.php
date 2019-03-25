@@ -11,16 +11,16 @@
                                 <h2 class="section-title">Hello, My Name is Jeimi.</h2>
 
                                 <p>
-                                    I pride myself in being a passionate, experienced and dedicated Full-Stack Developer & Graphic Designer.
+                                    Front & Back End Development | Strategic Partnerships | Marketing & Social Media | Graphic Designer
                                 </p>
 
                                 <span class="divider"></span>
 
                                 <p class="text-grey">
-                                    I’m passionate about developing websites that work seamlessly and look beautiful.
+                                    I am passionate about helping clients accomplish their goals within time and budget restraints. I love the challenge of developing websites that function seamlessly while capturing your readers’ eye through graphical elements.
                                 </p>
                                 <p class="text-grey">
-                                    I have spent my last 8 years in Alaska working as a contractor for multiple clients throughout the US. I have recently returned home to Utah. As a contractor I have helped clients in a wide variety of industries turn their ideas into websites that represent them. My graphic design background means your web presence won’t just function beautifully – it will look good, too.
+                                    Throughout my experience working with development teams I have found it extremely valuable to have the ability to uniquely combine front and back end development skills.  My graphic design experience encompasses web layout, printed catalogs, brochures, advertisements, company logo, as well as trade show booth designs.  These coding and design skills paired with my knowledge of marketing and social media provide each project with continuity throughout the entire process to produce timely targeted results. As a contractor I have helped clients in a wide variety of industries turn their ideas into websites and branding materials that represent their company vision.
                                 </p>
                                 <p class="text-grey">
                                     I’m currently available for short- and long-term web development projects, either working alone or as part of your team. I look forward to new challenges that push me to explore creative and innovative designs and solutions.
@@ -40,7 +40,7 @@
 
                                 <ul class="list-unstyled text-grey">
                                     <li>Jeimi Woffinden</li>
-                                    <li>West Jordan, Utah</li>
+                                    <li>Columbia Falls, MT</li>
                                     <li>907.331.0413</li>
                                     <li>jeimi@yahoo.com</li>
                                     <li>www.jeimiw.com</li>

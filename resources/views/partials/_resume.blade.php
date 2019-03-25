@@ -315,11 +315,15 @@
 
                                 <div id="work3" class="panel-collapse collapse">
                                     <div class="panel-body text-grey">
-                                        <p>
-                                            Responsibilities:
-                                            <br>
-                                            As Senior Designer, provided design leadership and marketing support for Dynatronics’ digital properties by using design best practices. As Lead Designer, focused on company branding and collateral materials, product catalogs, websites and product photography.
-                                        </p>
+                                        <p>Responsibilities:</p>
+
+                                        <p>Provided senior leadership for team designers. Actively engaged with vendors and system users to resolve concerns. </p>
+                                        <ul>
+                                            <li>Fulﬁlled a senior level leadership position mentoring a team of 3 Designers.</li>
+                                            <li>Leveraged innovative marketing strategies to signiﬁcantly grow companies new products by increasing company exposure and attracting new clientele</li>
+                                            <li>Designed various types of marketing campaigns, including catalogs, advertisements and e-mail blasts.</li>
+                                            <li>Main point of contact for system issue resolution.</li>
+                                        </ul>
                                     </div>
                                     <!-- //.panel-body -->
                                 </div>
@@ -329,40 +333,40 @@
                         </div>
                         <!-- //.resume-item -->
 
-                        <div class="resume-item">
-                            <div class="resume-year">
-                                <span class="resume-year">2000</span>
-                            </div>
-                            <!-- //.resume-year -->
+                        {{--<div class="resume-item">--}}
+                            {{--<div class="resume-year">--}}
+                                {{--<span class="resume-year">2000</span>--}}
+                            {{--</div>--}}
+                            {{--<!-- //.resume-year -->--}}
 
-                            <div class="resume-btn">
-                                <a href="#work4" class="collapsed" data-toggle="collapse" data-parent="#work"></a>
-                            </div>
-                            <!-- //.resume-btn -->
+                            {{--<div class="resume-btn">--}}
+                                {{--<a href="#work4" class="collapsed" data-toggle="collapse" data-parent="#work"></a>--}}
+                            {{--</div>--}}
+                            {{--<!-- //.resume-btn -->--}}
 
-                            <div class="panel">
-                                <div class="panel-heading">
-                                    <div class="panel-title">
-                                        <h4 class="resume-title">Graphic Designer  - RAVE Communications</h4>
-                                    </div>
-                                    <!-- //.panel-title -->
-                                </div>
-                                <!-- //.panel-heading -->
+                            {{--<div class="panel">--}}
+                                {{--<div class="panel-heading">--}}
+                                    {{--<div class="panel-title">--}}
+                                        {{--<h4 class="resume-title">Graphic Designer  - RAVE Communications</h4>--}}
+                                    {{--</div>--}}
+                                    {{--<!-- //.panel-title -->--}}
+                                {{--</div>--}}
+                                {{--<!-- //.panel-heading -->--}}
 
-                                <div id="work4" class="panel-collapse collapse">
-                                    <div class="panel-body text-grey">
-                                        <p>
-                                            Responsibilities:
-                                            <br>
-                                            Developed designs for various marketing materials
-                                        </p>
-                                    </div>
-                                    <!-- //.panel-body -->
-                                </div>
-                                <!-- //.panel-collapse -->
-                            </div>
-                            <!-- //.panel -->
-                        </div>
+                                {{--<div id="work4" class="panel-collapse collapse">--}}
+                                    {{--<div class="panel-body text-grey">--}}
+                                        {{--<p>--}}
+                                            {{--Responsibilities:--}}
+                                            {{--<br>--}}
+                                            {{--Developed designs for various marketing materials--}}
+                                        {{--</p>--}}
+                                    {{--</div>--}}
+                                    {{--<!-- //.panel-body -->--}}
+                                {{--</div>--}}
+                                {{--<!-- //.panel-collapse -->--}}
+                            {{--</div>--}}
+                            {{--<!-- //.panel -->--}}
+                        {{--</div>--}}
                         <!-- //.resume-item -->
                     </div>
                     <!-- //.panel-group -->

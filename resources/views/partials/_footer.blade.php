@@ -10,14 +10,14 @@
                 <ul class="list-inline social-icons">
                     <li>
                         <div class="item">
-                            <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="mailto:jeimi@yahoo.com" target="_blank"><i class="fa fa-envelope"></i></a>
                         </div>
                         <!-- //.item -->
                     </li>
 
                     <li>
                         <div class="item">
-                            <a href="https://twitter.com/Jeimiw" target="_blank"><i class="fa fa-twitter"></i></a>
+                            <a href="https://jeimiw.com" target="_blank"><i class="fa fa-globe"></i></a>
                         </div>
                         <!-- //.item -->
                     </li>
