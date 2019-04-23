@@ -97,7 +97,7 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="https://baranoffishing.com" target="_blank" class="external-link disabled">
+                                <a href="https://fishinginketchikan.com" target="_blank" class="external-link disabled">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
