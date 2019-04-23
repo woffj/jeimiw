@@ -72,7 +72,7 @@
                                     <i class="icon-Full-Screen"></i>
                                 </a>
 
-                                <a href="https://www.coastalak.com" target="_blank" class="external-link">
+                                <a href="http://coastalak.com/" target="_blank" class="external-link">
                                     <i class="icon-Link"></i>
                                 </a>
                             </div>
